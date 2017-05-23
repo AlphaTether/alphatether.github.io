@@ -1,0 +1,22 @@
+/* your styles go here */
+.btn-danger {
+    color: #fff;
+    background-color: #000000;
+    border-color: #fff;
+}
+
+.btn-danger.active, .btn-danger.focus, .btn-danger:active, .btn-danger:focus, .btn-danger:hover, .open > .dropdown-toggle.btn-danger {
+    color: #fff;
+    background-color: #ff0000;
+    border-color: #fff;
+}
+
+.main .transparent {
+    background: #000000;
+    border: solid 1px #fff;
+}
+
+body{
+
+  color: white;
+}
